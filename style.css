@@ -35,13 +35,17 @@ body {
 }
 
 .siderbar ul li {
-    padding: 10px 0;
+    padding: 6px 10px ;
 }
 
 .siderbar nav ul li a {
     color: #b3b3b3;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 600;
     font-family: "DM Sans", sans-serif;
     text-decoration: none;
 }
+
+a span {
+    margin-right: 5px; /* Chatgpt*/
+  }
